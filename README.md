@@ -11,6 +11,6 @@
 </p>
 <ul dir="auto">
   <li>
-    <a href="#https://github.com/JDIDPRKJ/pssgn rel="pssgn">Generador de contraseñas</a>
+    <a href="https://github.com/JDIDPRKJ/pssgn rel="pssgn">Generador de contraseñas</a>
   </li>
 </ul>
