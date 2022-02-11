@@ -1,13 +1,13 @@
 <p dir="auto" align="center">
   <a href="#">
-    <img src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+    <img src="https://i.imgur.com/fe20oxA.png" width="150" height="150">
   </a>
 </p>
-<h2 dir="auto" align="center">JDIRSMV</h2>
+<h2 dir="auto" align="center">Sheika - JDI</h2>
 <p dir="auto" align="center">
   Herramientas por
   <a href="https://youtu.be/dQw4w9WgXcQ">JDI</a>
-  para uso público
+  para uso público y almacenamiento de datos
 </p>
 
 <p dir="auto" align="center">
@@ -71,6 +71,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jdidprkj&show_icons=true&locale=en&layout=compact" alt="jdidprkj"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheika-JDI&show_icons=true&locale=en&layout=compact" alt="Sheika-JDI"/>
 </p>
 
